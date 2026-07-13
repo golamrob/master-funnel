@@ -1,0 +1,13 @@
+# Required
+numpy
+Pillow
+imagehash
+piexif
+scikit-learn
+tqdm
+opencv-python
+
+# Optional — only needed for AI aesthetic scoring (SigLIP).
+# --calibrate and dedup/QA work without these.
+# torch
+# transformers
